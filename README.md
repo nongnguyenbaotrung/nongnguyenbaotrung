@@ -4,7 +4,7 @@
 - 📝 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on FullStack Web Development
 - 💬 Ask me about anything
-- ✉️ How to reach me: <a href="mailto:tinnguen123@@gmail.com">Gmail</a> 
+- ✉️ How to reach me: <a href="mailto:baotrung049@gmail.com">Gmail</a> 
 
 # 💻Tech Stack
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
